@@ -29,7 +29,7 @@
  <br> 
   🌱 I’m currently learning Tensorflow. <br>
   🤔 I’m looking for help with Holograms.<br>
-  💬 Ask me about python or anything about UEM.<br>
+  💬 Ask me about python or anything about UEM Jaipur.<br>
   😄 Pronouns: He/His<br>
   ⚡ Fun fact: Big marvel fan and watched all MCU movies atmost 7 times.<br>
 

@@ -52,5 +52,5 @@
 </a>
 <h1 align = 'Left'>Watch a 🐍 eating my contribution graph</h1>
 <p align="left">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://media-exp1.licdn.com/dms/image/C5622AQGJ9wIbJuVUcg/feedshare-shrink_800/0/1626042196664?e=1629936000&v=beta&t=BpKkkUFKBv0UohPWzj6Wpl0VQuIZ2pDcbI7jbf8h1HY" alt="snake"></center>
 </p>

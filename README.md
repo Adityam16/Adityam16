@@ -50,3 +50,7 @@
 <a href="https://github.com/Adityam16">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityam16&show_icons=true&theme=dark&line_height=27" alt="Adityam's github stats"/>
 </a>
+<h1 align = 'Left'>Watch a 🐍 eating my contribution graph</h1>
+<p align="left">
+  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
